@@ -1,12 +1,12 @@
 # 📉 Customer Churn Prediction System
-##📌 Overview
+## 📌 Overview
 
 The Customer Churn Prediction System is a machine learning–based project that predicts whether a telecom customer is likely to churn or stay with the company. The system analyzes customer behavior, service usage, and account-related information to identify high-risk customers and provide churn probability.
 
 This project demonstrates an end-to-end machine learning workflow using real-world telecom data.
 
 ---
-##🎯 Problem Statement
+## 🎯 Problem Statement
 
 Customer churn is a major challenge for telecom companies, leading to revenue loss and reduced customer base. Traditional churn identification methods are manual and inefficient. This project aims to build a data-driven churn prediction system that helps businesses proactively identify customers who are likely to leave.
 
